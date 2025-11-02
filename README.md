@@ -179,10 +179,6 @@ To connect to a real server:
 
 **Service:** `lib/core/services/gemini_service.dart`
 
-### Security
-- Don't commit API keys
-- Use `.env` or system environment variables
-- See `GEMINI_API_SETUP.md` for details
 
 ---
 
@@ -204,10 +200,6 @@ To connect to a real server:
    - Enable Email/Password + Google Sign-In
 3. **Rebuild your Flutter app**
 
-### Security
-- Config files excluded via `.gitignore`
-- Use release keystore for production
-- See `GOOGLE_SIGN_IN_SETUP.md`
 
 ---
 
@@ -252,16 +244,6 @@ lib/
 - 👤 Editable Profile
 - 🎞️ Lottie & Hero animations
 - ⚙️ Error handling + Optimized performance
-
----
-
-## 📄 Documentation
-
-- `README.md` - This file
-- `GEMINI_API_SETUP.md` - Gemini API setup guide
-- `GOOGLE_SIGN_IN_SETUP.md` - Google Sign-In setup guide
-
----
 
 ## 📦 Dependencies
 
