@@ -1,0 +1,6 @@
+enum ViewMode {
+  list,
+  grid,
+}
+
+
